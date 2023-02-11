@@ -1,4 +1,4 @@
-# Hey everyone, I'm ProdigyX6217 👋
+# Hey everyone, I'm DOM 👋
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
